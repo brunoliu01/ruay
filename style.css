@@ -1,0 +1,37 @@
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+ul {
+	display: flex;
+	align-items: center;
+}
+
+li {
+	display: flex;
+	margin-left:40px;
+}
+
+.logo {
+	margin-right:600px;
+}
+
+.text-home{
+	background-image: url("img/filtro.png");
+	height: 57vh;
+	background-color: #ff3a46;
+}
+
+.texto{
+	display: flex;
+	justify-content:center;
+	margin-top: 150px;
+	font-size: 30px;
+	font-family: "open sans";
+	color: white;
+
+}
